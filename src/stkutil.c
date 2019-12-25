@@ -1,3 +1,4 @@
+#pragma clang diagnostic ignored "-Wtautological-pointer-compare"
 /*
  *
  *  oFono - Open Source Telephony
